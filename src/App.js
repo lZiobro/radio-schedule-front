@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { useEffect, useState } from "react";
 
@@ -12,7 +11,7 @@ function App() {
   const [active, setActive] = useState(true);
   const [schedule, setSchedule] = useState();
 
-  const baseApiUrl = "http://127.0.0.1:21727";
+  const baseApiUrl = "https://vps-7695c5a6.vps.ovh.net:9876";
 
   const getCurrentSchedule = () => {
     fetch(`${baseApiUrl}/getSchedule`)
