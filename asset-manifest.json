@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/radio-schedule-front/static/css/main.a18e430e.css",
-    "main.js": "/radio-schedule-front/static/js/main.542f01f4.js",
+    "main.js": "/radio-schedule-front/static/js/main.a3fbe575.js",
     "static/js/453.53801a5d.chunk.js": "/radio-schedule-front/static/js/453.53801a5d.chunk.js",
     "index.html": "/radio-schedule-front/index.html",
     "main.a18e430e.css.map": "/radio-schedule-front/static/css/main.a18e430e.css.map",
-    "main.542f01f4.js.map": "/radio-schedule-front/static/js/main.542f01f4.js.map",
+    "main.a3fbe575.js.map": "/radio-schedule-front/static/js/main.a3fbe575.js.map",
     "453.53801a5d.chunk.js.map": "/radio-schedule-front/static/js/453.53801a5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a18e430e.css",
-    "static/js/main.542f01f4.js"
+    "static/js/main.a3fbe575.js"
   ]
 }
